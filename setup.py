@@ -94,7 +94,7 @@ REQUIRES = [
 
 # Should be as close to Home Assistant dev/master as possible
 TESTS_REQUIRE = [
-    'black>=22.8,<30',
+    'black>=24.3,<30',
     'codecov>=2.0.15,<3',
     'coveralls>=1.2.0,<2',
     'flake8>=3.9,<4',
