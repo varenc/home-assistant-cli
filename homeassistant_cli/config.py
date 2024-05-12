@@ -16,7 +16,7 @@ _LOGGING = logging.getLogger(__name__)
 
 
 class _ZeroconfListener:
-    """Reporesentation of the ZeroCOnf listener."""
+    """Representation of the ZeroCOnf listener."""
 
     def __init__(self) -> None:
         """Initialize the listener."""
